@@ -36,6 +36,10 @@
 * **Teknolojiler:** ASP.NET | C# | HTML & CSS
 * **Açıklama:** Dinamik içerik yönetimine sahip, modern tasarım prensipleriyle hazırlanmış kişisel tanıtım sitesi.
 
+#### 4. ☕ Java ile Algoritma ve Problem Çözme
+* **Teknolojiler:** Java | Algoritma | Veri Yapıları | Dosya İşlemleri
+* **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
+
 ---
 
 ### 🏆 Sertifikalarım & Eğitimlerim
@@ -60,6 +64,7 @@
 ![Gencay's GitHub Streak](https://streak-stats.demolab.com?user=GencayCeliker&theme=radical)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GencayCeliker&layout=compact&theme=radical)
+-->
 
 </div>
 
