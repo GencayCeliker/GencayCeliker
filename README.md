@@ -27,18 +27,22 @@
 #### 1. 📞 Telefon Rehberi Uygulaması
 * **Teknolojiler:** C# | SQL Server | Windows Forms | Entity Framework
 * **Açıklama:** Kullanıcıların kişi bilgilerini ekleyip, silebildiği ve güncelleyebildiği, CRUD işlemlerini içeren katmanlı bir masaüstü uygulaması.
+* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
 
 #### 2. 🤖 Sesli Yapay Zeka Asistanı (Moly) *(Geliştirme Aşamasında)*
 * **Teknolojiler:** Python | SpeechRecognition | gTTS | SQL Server
 * **Açıklama:** Sesli komutları algılayıp yanıt verebilen ve öğrenme yapısı için veritabanı kullanan kişisel asistan projesi.
+* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
 
 #### 3. 🌐 Kişisel Web Sitesi
 * **Teknolojiler:** ASP.NET | C# | HTML & CSS
 * **Açıklama:** Dinamik içerik yönetimine sahip, modern tasarım prensipleriyle hazırlanmış kişisel tanıtım sitesi.
+* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
 
 #### 4. ☕ Java ile Algoritma ve Problem Çözme
 * **Teknolojiler:** Java | Algoritma | Veri Yapıları | Dosya İşlemleri
 * **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
+* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
 
 ---
 
