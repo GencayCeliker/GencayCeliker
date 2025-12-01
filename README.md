@@ -39,7 +39,7 @@
 * **Açıklama:** Dinamik içerik yönetimine sahip, modern tasarım prensipleriyle hazırlanmış kişisel tanıtım sitesi.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
 
-#### 4. ☕ Java ile Algoritma ve Problem Çözme
+#### 4. ☕ Java ile Algoritma Geliştirme ve Problem Çözme
 * **Teknolojiler:** Java | Algoritma | Veri Yapıları | Dosya İşlemleri
 * **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
