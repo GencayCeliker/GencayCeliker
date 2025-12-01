@@ -57,7 +57,7 @@
 
 ### 📈 GitHub İstatistiklerim
 
-![Gencay's GitHub stats](https://github-readme-stats.vercel.app/api?username=GencayCeliker&show_icons=true&theme=radical)
+![Gencay's GitHub Streak](https://streak-stats.demolab.com?user=GencayCeliker&theme=radical)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GencayCeliker&layout=compact&theme=radical)
 
