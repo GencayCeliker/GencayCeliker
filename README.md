@@ -30,10 +30,10 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-#### 1. [🍽️ Restoran Otomasyon Sistemi](https://github.com/foxseSReal/RestoranOtomasyonu)
+#### 1. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
 * **Teknolojiler:** C# | SQL Server | Entity Framework | .NET 4.8
-* **Açıklama:** Stok, personel, ciro takibi ve sipariş yönetimi yapabilen, katmanlı mimariye sahip kapsamlı restoran yönetim sistemi.
-* **Rolüm:** Veritabanı Mimarisi & Backend Geliştirme.
+* **Açıklama:** Kapsamlı bir restoran yönetim sistemi olup şu modülleri içerir: Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon Sistemi ve Günlük Harcama Takibi.
+* **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
 #### 2. 📞 Telefon Rehberi Uygulaması
 * **Teknolojiler:** C# | SQL Server | Windows Forms | Entity Framework
