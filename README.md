@@ -50,6 +50,11 @@
 * **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
 
+#### 5. 🌐 ASP.NET Web Sitesi Geliştirme
+* **Teknolojiler:**   ASP.NET | C# | Bootstrap| HTML | CSS 
+* **Açıklama:** Dinamik içerik yönetimine sahip, modern tasarım prensipleriyle hazırlanmış kişisel tanıtım sitesi.
+* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
+
 ---
 
 ### 🏆 Sertifikalarım & Eğitimlerim
