@@ -30,7 +30,7 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-#### 1. [🍽️ Restoran Otomasyon Sistemi](https://github.com/GencayCeliker/Restoran-Otomasyonu)
+#### 1. [🍽️ Restoran Otomasyon Sistemi](https://github.com/foxseSReal/RestoranOtomasyonu)
 * **Teknolojiler:** C# | SQL Server | Entity Framework | .NET 4.8
 * **Açıklama:** Stok, personel, ciro takibi ve sipariş yönetimi yapabilen, katmanlı mimariye sahip kapsamlı restoran yönetim sistemi.
 * **Rolüm:** Veritabanı Mimarisi & Backend Geliştirme.
@@ -55,7 +55,7 @@
 ### 🏆 Sertifikalarım & Eğitimlerim
 
 **Teknik Yetkinlikler:**
-- **C# Programlama** - BTK Akademi (15.11.2025)
+- **C# Programlama** - BTK Akademi (2025)
 - **Versiyon Kontrolleri: Git ve GitHub** - BTK Akademi (2025)
 - **Siber Güvenlik 101** - BTK Akademi (2025)
 - **Eğitimde Yapay Zeka Araçları Eğitimi** - (2024)
