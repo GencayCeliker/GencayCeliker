@@ -35,10 +35,10 @@
 * **Açıklama:** Kapsamlı bir restoran yönetim sistemi olup şu modülleri içerir: Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon Sistemi ve Günlük Harcama Takibi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 2. 📞 Telefon Rehberi Uygulaması
+#### 2. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
 * **Teknolojiler:** C# | SQL Server | Windows Forms | Entity Framework
 * **Açıklama:** Kullanıcıların kişi bilgilerini ekleyip, silebildiği ve güncelleyebildiği, CRUD işlemlerini içeren katmanlı bir masaüstü uygulaması.
-* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
+* **Not:** Link Verildi Herhangi Bir Problemde Yazın lütfen.
 
 #### 3. 🤖 Sesli Yapay Zeka Asistanı (Moly) *(Geliştirme Aşamasında)*
 * **Teknolojiler:** Python | SpeechRecognition | gTTS | SQL Server
