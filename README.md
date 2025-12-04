@@ -45,7 +45,7 @@
 * **Açıklama:** Sesli komutları algılayıp yanıt verebilen ve öğrenme yapısı için veritabanı kullanan kişisel asistan projesi.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
 
-#### 4. ☕ Java ile Algoritma Geliştirme ve Problem Çözme
+#### 4. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri.git)
 * **Teknolojiler:** Java | Algoritma | Veri Yapıları | Dosya İşlemleri
 * **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
