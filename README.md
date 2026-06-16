@@ -1,6 +1,6 @@
 ### Merhaba, Ben Gencay Çeliker! 👋
 
-💻 **Tokat Gaziosmanpaşa Üniversitesi**'nde Bilgisayar Programcılığı öğrencisiyim. Yazılım geliştirme dünyasında kendimi C#, Python ve Veritabanı Yönetimi alanlarında geliştiriyorum.
+💻 **Tokat Gaziosmanpaşa Üniversitesi**'nde Bilgisayar Programcılığı Mezunuyum. Yazılım geliştirme dünyasında kendimi C#, Python ve Veritabanı Yönetimi alanlarında geliştiriyorum. Diplama Not:84,80
 
 Öğrenmeye hevesli, yeni teknolojileri deneyimlemeyi seven biriyim. Şu anda masaüstü uygulamaları ve yapay zeka destekli asistan projeleri üzerinde çalışıyorum.
 
@@ -35,22 +35,27 @@
 * **Açıklama:** Kapsamlı bir restoran yönetim sistemi olup şu modülleri içerir: Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon Sistemi ve Günlük Harcama Takibi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 2. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
+#### 2. [🍽️ Restoran Otomasyon Sistemi ](https://github.com/GencayCeliker/Restoran-Sitesi)
+* **Teknolojiler:** C# | SQL Server | Entity Framework | MVC
+* **Açıklama:** İçerisinde entegre bir Yönetim Paneli (Admin Dashboard) barındıran, dinamik veri kontrolü ve uçtan uca restoran işlemlerinin dijital olarak yönetilmesini sağlayan kapsamlı web tabanlı otomasyon projesi.
+* **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
+
+#### 3. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
 * **Teknolojiler:** C# | SQL Server | Windows Forms | Entity Framework
 * **Açıklama:** Kullanıcıların kişi bilgilerini ekleyip, silebildiği ve güncelleyebildiği, CRUD işlemlerini içeren katmanlı bir masaüstü uygulaması.
 * **Not:** Link Verildi Herhangi Bir Problemde Yazın lütfen.
 
-#### 3. 🤖 Sesli Yapay Zeka Asistanı (Moly) *(Geliştirme Aşamasında)*
+#### 4. 🤖 Sesli Yapay Zeka Asistanı (Moly) *(Geliştirme Aşamasında)*
 * **Teknolojiler:** Python | SpeechRecognition | gTTS | SQL Server
 * **Açıklama:** Sesli komutları algılayıp yanıt verebilen ve öğrenme yapısı için veritabanı kullanan kişisel asistan projesi.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
 
-#### 4. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri.git)
+#### 5. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri.git)
 * **Teknolojiler:** Java | Algoritma | Veri Yapıları | Dosya İşlemleri
 * **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
 
-#### 5. 🌐 ASP.NET Web Sitesi Geliştirme
+#### 6. 🌐 ASP.NET Web Sitesi Geliştirme
 * **Teknolojiler:**   ASP.NET | C# | Bootstrap| HTML | CSS 
 * **Açıklama:** Dinamik içerik yönetimine sahip, modern tasarım prensipleriyle hazırlanmış kişisel tanıtım sitesi.
 * **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
@@ -66,6 +71,7 @@
 - **Eğitimde Yapay Zeka Araçları Eğitimi** - (2024)
 
 **Kişisel Gelişim:**
+- **Bağımlılıkla Mücadele** - (2026)
 - **Mülakat Teknikleri Eğitimi** - (2025)
 - **Meslek Etiği** - (2025)
 - **İş Sağlığı ve Güvenliği Eğitimi** - (2025)
