@@ -35,7 +35,7 @@
 * **Açıklama:** Kapsamlı bir restoran yönetim sistemi olup şu modülleri içerir: Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon Sistemi ve Günlük Harcama Takibi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 2. [🍽️ Restoran Otomasyon Sistemi ](https://github.com/GencayCeliker/Restoran-Sitesi)
+#### 2. [Moly-Restaurant Sitesi ](https://github.com/GencayCeliker/Restoran-Sitesi)
 * **Teknolojiler:** C# | SQL Server | Entity Framework | MVC |.NET Framework 4.7.2
 * **Açıklama:** İçerisinde entegre bir Yönetim Paneli (Admin Dashboard) barındıran, dinamik veri kontrolü ve uçtan uca restoran işlemlerinin dijital olarak yönetilmesini sağlayan kapsamlı web tabanlı otomasyon projesi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
