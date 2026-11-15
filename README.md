@@ -1,6 +1,6 @@
 ### Merhaba, Ben Gencay Çeliker! 👋
 
-💻 **Tokat Gaziosmanpaşa Üniversitesi**'nde Bilgisayar Programcılığı Mezunuyum. Yazılım geliştirme dünyasında kendimi C#, Python ve Veritabanı Yönetimi alanlarında geliştiriyorum. Diplama Not:84,80
+💻 **Tokat Gaziosmanpaşa Üniversitesi**'nde Bilgisayar Programcılığı Mezunuyum. Yazılım geliştirme dünyasında kendimi C#, Python ve Veritabanı Yönetimi alanlarında geliştiriyorum. Diploma Notu: 84,80
 
 Öğrenmeye hevesli, yeni teknolojileri deneyimlemeyi seven biriyim. Şu anda masaüstü uygulamaları ve yapay zeka destekli asistan projeleri üzerinde çalışıyorum.
 
@@ -21,6 +21,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -30,35 +32,38 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-#### 1. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
-* **Teknolojiler:** C# | SQL Server | Entity Framework | .NET 4.8
-* **Açıklama:** Kapsamlı bir restoran yönetim sistemi olup şu modülleri içerir: Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon Sistemi ve Günlük Harcama Takibi.
+> C# / SQL Server projelerinin her birinde **Visual Studio** ve **SQL Server Management Studio (SSMS) 22** ile adım adım kurulum anlatımı ve veritabanı kurulum script'i bulunur.
+
+#### 1. [🍽️ Moly Restaurant – Web Sitesi ve Yönetim Paneli](https://github.com/GencayCeliker/Restoran-Sitesi)
+* **Teknolojiler:** C# | ASP.NET MVC 5 | Entity Framework 6 | SQL Server | Bootstrap 5 | jQuery/AJAX | .NET Framework 4.7.2
+* **Açıklama:** Müşteri sitesi ve yönetim paneli bir arada olan restoran web uygulaması. Menü ve kategori yönetimi, rezervasyon onay/iptal akışı ve müşteriye otomatik e-posta (SMTP), masa ve şef yönetimi, Summernote ile blog/duyuru ve içerik yönetimi, PDF yükleme, güvenlik kodlu ve yönetici onaylı yorumlar, Türkiye haritası üzerinden şube listeleme, rol tabanlı admin erişimi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 2. [Moly-Restaurant Sitesi ](https://github.com/GencayCeliker/Restoran-Sitesi)
-* **Teknolojiler:** C# | SQL Server | Entity Framework | MVC |.NET Framework 4.7.2
-* **Açıklama:** İçerisinde entegre bir Yönetim Paneli (Admin Dashboard) barındıran, dinamik veri kontrolü ve uçtan uca restoran işlemlerinin dijital olarak yönetilmesini sağlayan kapsamlı web tabanlı otomasyon projesi.
+#### 2. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
+* **Teknolojiler:** C# | WPF | Material Design in XAML | LiveCharts | SQL Server | Entity Framework 6 | .NET Framework 4.8
+* **Açıklama:** Masaüstü restoran yönetim sistemi: Masa Kontrolü, Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon ve Günlük Harcama Takibi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 3. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
-* **Teknolojiler:** C# | SQL Server | Windows Forms | Entity Framework
-* **Açıklama:** Kullanıcıların kişi bilgilerini ekleyip, silebildiği ve güncelleyebildiği, CRUD işlemlerini içeren katmanlı bir masaüstü uygulaması.
-* **Not:** Link Verildi Herhangi Bir Problemde Yazın lütfen.
+#### 3. [🖐️ Air Canvas – Havada Çizim](https://github.com/GencayCeliker/air-canvas)
+* **Teknolojiler:** Python | OpenCV | MediaPipe | Edge TTS | SpeechRecognition | manifold3d | pytest
+* **Açıklama:** Webcam ile parmağınızı fırçaya çeviren çizim uygulaması. Kaba çizilen daire, üçgen ve dikdörtgenleri düzgün şekle dönüştürür, Türkçe sesli komutları anlar ve sesli not alır. Yapay zekâ destekli 3D tasarım asistanı ile söylediğiniz parçayı (vida, dron, araba…) adım adım çizdirip STL olarak dışa aktarır.
 
-#### 4. 🤖 Sesli Yapay Zeka Asistanı (Moly) *(Geliştirme Aşamasında)*
-* **Teknolojiler:** Python | SpeechRecognition | gTTS | SQL Server
-* **Açıklama:** Sesli komutları algılayıp yanıt verebilen ve öğrenme yapısı için veritabanı kullanan kişisel asistan projesi.
-* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
+#### 4. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
+* **Teknolojiler:** C# | Windows Forms | Entity Framework 6 (Database First) | SQL Server | .NET Framework 4.7.2
+* **Açıklama:** Kişi ekleme, silme, güncelleme ve listeleme (CRUD) işlemleri yapan; ad/soyad ile canlı arama ve cinsiyete göre filtreleme sunan masaüstü rehber uygulaması.
 
-#### 5. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri.git)
-* **Teknolojiler:** Java | Algoritma | Veri Yapıları | Dosya İşlemleri
-* **Açıklama:** Üniversite eğitimi kapsamında geliştirdiğim; döngüler, matris işlemleri, string manipülasyonu ve temel oyun mantığı içeren algoritma odaklı konsol uygulamaları.
-* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir.
+#### 5. 🤖 Moly / Jarvis – Sesli Yapay Zekâ Asistanı *(Geliştirme Aşamasında)*
+* **Teknolojiler:** Python | PySide6 | FastAPI | faster-whisper | Edge TTS | OpenCV / MediaPipe | ChromaDB | SQL Server / SQLite | LM Studio / Ollama | Gemini
+* **Açıklama:** Windows üzerinde yerel modellerle çalışan, Türkçe konuşan masaüstü asistanı: uyandırma kelimesi ve sesli komut, sesli yanıt, görüntü işleme, ChromaDB ile anlamsal hafıza, SQL Server'da sohbet geçmişi, 40+ eklenti (skill), arka planda çalışan ajanlar ve mobil uzaktan erişim.
+* **Not:** Depo şu an özel (private); hazır olduğunda paylaşılacaktır.
 
-#### 6. 🌐 ASP.NET Web Sitesi Geliştirme
-* **Teknolojiler:**   ASP.NET | C# | Bootstrap| HTML | CSS 
-* **Açıklama:** Dinamik içerik yönetimine sahip, modern tasarım prensipleriyle hazırlanmış kişisel tanıtım sitesi.
-* **Not:** Yakın Zamanda Yükleme Yapılıp link verilecektir
+#### 6. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri)
+* **Teknolojiler:** Java | Algoritma | Swing | Dosya İşlemleri
+* **Açıklama:** Üniversite eğitimi kapsamında 7 seviyelik algoritma ödevinin 63 çözümü: döngüler, string işlemleri, matrisler, Swing ile klavye/ekran uygulamaları (labirent oyunu), dosya okuma-yazma ve mantık problemleri.
+
+#### 7. 🎓 [Üniversite Çalışmalarım](https://github.com/GencayCeliker/Universite-Calismalarim)
+* **Teknolojiler:** C# | .NET Framework | ASP.NET MVC 5 | Bootstrap 5
+* **Açıklama:** Bilgisayar Programcılığı derslerinde yazdığım C# konsol algoritma alıştırmaları ve Web Tasarımı uygulama sınavı projesi.
 
 ---
 
