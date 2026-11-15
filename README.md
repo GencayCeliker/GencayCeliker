@@ -62,8 +62,24 @@
 * **Açıklama:** Üniversite eğitimi kapsamında 7 seviyelik algoritma ödevinin 63 çözümü: döngüler, string işlemleri, matrisler, Swing ile klavye/ekran uygulamaları (labirent oyunu), dosya okuma-yazma ve mantık problemleri.
 
 #### 7. 🎓 [Üniversite Çalışmalarım](https://github.com/GencayCeliker/Universite-Calismalarim)
-* **Teknolojiler:** C# | .NET Framework | ASP.NET MVC 5 | Bootstrap 5
-* **Açıklama:** Bilgisayar Programcılığı derslerinde yazdığım C# konsol algoritma alıştırmaları ve Web Tasarımı uygulama sınavı projesi.
+* **Teknolojiler:** C# | Windows Forms | ASP.NET MVC 5 | Entity Framework | Java | Bootstrap 5
+* **Açıklama:** Bilgisayar Programcılığı derslerindeki 40'tan fazla alıştırma; her birinin README'sinde neler öğrendiğim yazar: Windows Forms (koşullar, döngüler, diziler, metotlar, Timer), LINQ, HTML/CSS/Bootstrap, Razor, konsol algoritmaları ve Java sıralama algoritmaları.
+
+### 📁 Diğer Projelerim
+
+| Proje | Teknolojiler | Öne çıkan |
+| --- | --- | --- |
+| [📚 Kütüphane Otomasyonu](https://github.com/GencayCeliker/Kutuphane-Otomasyonu) | C# WinForms · SQL Server | 22 stored procedure, gecikme cezası hesaplayan trigger |
+| [🏢 İş Takip Otomasyonu](https://github.com/GencayCeliker/Is-Takip-Otomasyonu) | C# WinForms · EF6 · SMO | Personel, müşteri, stok, kasa, çek/senet, yetkilendirme, veritabanı yedekleme |
+| [🍽️ Restoran Otomasyonu (WinForms)](https://github.com/GencayCeliker/Restoran-Otomasyonu-WinForms) | C# WinForms · EF6 | Garson/kasiyer/admin panelleri, adisyon, grafikli satış raporları |
+| [✈️ Seyahat Blog Sitesi](https://github.com/GencayCeliker/Seyahat-Sitesi-MVC) | ASP.NET MVC 5 · EF6 | Yorumlar, güvenlik sorusu, sayfalama, rol tabanlı yönetim paneli |
+| [🧠 LLM Memory Manager](https://github.com/GencayCeliker/LLM-Memory-Manager) | WPF · .NET 10 · EF Core | Yerel LLM (LM Studio) sohbeti, SQL Server'da kalıcı hafıza |
+| [💧 Su Tahsilat Otomasyonu](https://github.com/GencayCeliker/Su-Tahsilat-Otomasyonu) | WinForms · T-SQL · EF Core | Stored procedure + trigger sürümü ve Code First katmanlı mimari sürümü |
+| [👥 Personel Takip (WPF)](https://github.com/GencayCeliker/Personel-Takip-WPF) | WPF · .NET 10 · EF Core | Stored procedure tabanlı CRUD |
+| [🚗 Araç Kiralama](https://github.com/GencayCeliker/Arac-Kiralama-Otomasyonu) | C# WinForms · T-SQL | Stored procedure ile kiralama ve teslim alma |
+| [🔧 Araç Tamir Otomasyonu](https://github.com/GencayCeliker/Arac-Tamir-Otomasyonu) | C# WinForms · Guna UI2 | Oto servis: stok, randevu, kasa, muhasebe (ekip proje ödevi) |
+| [🎓 MVC Öğrenci Takip](https://github.com/GencayCeliker/MVC-Ogrenci-Takip) | ASP.NET MVC 5 · LINQ | Öğrenci, ders, kulüp, not yönetimi |
+| [🗄️ SQL Çalışmalarım](https://github.com/GencayCeliker/SQL-Calismalari) | T-SQL | Stored procedure, trigger, cursor, fonksiyon; kurulabilir örnek veritabanları |
 
 ---
 
@@ -72,7 +88,7 @@
 **Teknik Yetkinlikler:**
 - **C# Programlama** - BTK Akademi (2025)
 - **Versiyon Kontrolleri: Git ve GitHub** - BTK Akademi (2025)
-- **Siber Güvenlik 101** - BTK Akademi (2025)
+- **Siber Güvenlik 101** - Akbank Gençlik Akademisi (2025)
 - **Eğitimde Yapay Zeka Araçları Eğitimi** - (2024)
 
 **Kişisel Gelişim:**
