@@ -34,19 +34,20 @@
 
 > C# / SQL Server projelerinin her birinde **Visual Studio** ve **SQL Server Management Studio (SSMS) 22** ile adım adım kurulum anlatımı ve veritabanı kurulum script'i bulunur.
 
-#### 1. [🍽️ Moly Restaurant – Web Sitesi ve Yönetim Paneli](https://github.com/GencayCeliker/Restoran-Sitesi)
+#### 1. [🖐️ Air Canvas – Webcam ile Havada Çizim](https://github.com/GencayCeliker/air-canvas)
+* **Teknolojiler:** Python | OpenCV | MediaPipe | Edge TTS | SpeechRecognition | manifold3d | pytest | GitHub Actions
+* **Açıklama:** Sıradan bir webcam ile işaret parmağınızı fırçaya çeviren çizim uygulaması. Kaba çizilen çizgi, daire, üçgen ve dikdörtgenleri düzgün şekle dönüştürür, Türkçe sesli komutları anlar ve sesli not alır. Yapay zekâ destekli 3D tasarım asistanı ile söylediğiniz parçayı (vida, dron, araba…) parçalara ayırıp adım adım sesli anlatımla çizdirir ve 3D yazıcıya hazır STL olarak dışa aktarır.
+* **Öne çıkanlar:** Özel donanım gerektirmez · geri al/yinele, silgi, tahta modu · yerel LLM (LM Studio / Ollama) ile not özetleme · pytest test paketi ve GitHub Actions CI.
+
+#### 2. [🍽️ Moly Restaurant – Web Sitesi ve Yönetim Paneli](https://github.com/GencayCeliker/Restoran-Sitesi)
 * **Teknolojiler:** C# | ASP.NET MVC 5 | Entity Framework 6 | SQL Server | Bootstrap 5 | jQuery/AJAX | .NET Framework 4.7.2
 * **Açıklama:** Müşteri sitesi ve yönetim paneli bir arada olan restoran web uygulaması. Menü ve kategori yönetimi, rezervasyon onay/iptal akışı ve müşteriye otomatik e-posta (SMTP), masa ve şef yönetimi, Summernote ile blog/duyuru ve içerik yönetimi, PDF yükleme, güvenlik kodlu ve yönetici onaylı yorumlar, Türkiye haritası üzerinden şube listeleme, rol tabanlı admin erişimi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 2. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
+#### 3. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
 * **Teknolojiler:** C# | WPF | Material Design in XAML | LiveCharts | SQL Server | Entity Framework 6 | .NET Framework 4.8
 * **Açıklama:** Masaüstü restoran yönetim sistemi: Masa Kontrolü, Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon ve Günlük Harcama Takibi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
-
-#### 3. [🖐️ Air Canvas – Havada Çizim](https://github.com/GencayCeliker/air-canvas)
-* **Teknolojiler:** Python | OpenCV | MediaPipe | Edge TTS | SpeechRecognition | manifold3d | pytest
-* **Açıklama:** Webcam ile parmağınızı fırçaya çeviren çizim uygulaması. Kaba çizilen daire, üçgen ve dikdörtgenleri düzgün şekle dönüştürür, Türkçe sesli komutları anlar ve sesli not alır. Yapay zekâ destekli 3D tasarım asistanı ile söylediğiniz parçayı (vida, dron, araba…) adım adım çizdirip STL olarak dışa aktarır.
 
 #### 4. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
 * **Teknolojiler:** C# | Windows Forms | Entity Framework 6 (Database First) | SQL Server | .NET Framework 4.7.2
