@@ -78,7 +78,6 @@
 | [💧 Su Tahsilat Otomasyonu](https://github.com/GencayCeliker/Su-Tahsilat-Otomasyonu) | WinForms · T-SQL · EF Core | Stored procedure + trigger sürümü ve Code First katmanlı mimari sürümü |
 | [👥 Personel Takip (WPF)](https://github.com/GencayCeliker/Personel-Takip-WPF) | WPF · .NET 10 · EF Core | Stored procedure tabanlı CRUD |
 | [🚗 Araç Kiralama](https://github.com/GencayCeliker/Arac-Kiralama-Otomasyonu) | C# WinForms · T-SQL | Stored procedure ile kiralama ve teslim alma |
-| [🔧 Araç Tamir Otomasyonu](https://github.com/GencayCeliker/Arac-Tamir-Otomasyonu) | C# WinForms · Guna UI2 | Oto servis: stok, randevu, kasa, muhasebe (ekip proje ödevi) |
 | [🎓 MVC Öğrenci Takip](https://github.com/GencayCeliker/MVC-Ogrenci-Takip) | ASP.NET MVC 5 · LINQ | Öğrenci, ders, kulüp, not yönetimi |
 | [🗄️ SQL Çalışmalarım](https://github.com/GencayCeliker/SQL-Calismalari) | T-SQL | Stored procedure, trigger, cursor, fonksiyon; kurulabilir örnek veritabanları |
 
