@@ -139,7 +139,7 @@ Yerel LLM (LM Studio) sohbet geçmişini SQL Server'da saklayan masaüstü uygul
 
 ## 📈 Katkılarım
 
-Tüm projelerimde toplam **223 commit** attım. Günlük katkı takvimim bu sayfanın hemen altında.
+Tüm projelerimde toplam **190 commit** attım. Günlük katkı takvimim bu sayfanın hemen altında.
 
 <details open>
 <summary><b>Proje bazında commit sayıları</b></summary>
@@ -149,7 +149,6 @@ Tüm projelerimde toplam **223 commit** attım. Günlük katkı takvimim bu sayf
 | --- | ---: |
 | [Moly Restaurant](https://github.com/GencayCeliker/Restoran-Sitesi) | 69 |
 | [Restoran Yönetim Otomasyonu <sub>(ekip)</sub>](https://github.com/foxseSReal/Restoran-Otomasyonu) | 38 |
-| [Profil README](https://github.com/GencayCeliker/GencayCeliker) | 33 |
 | Moly / Jarvis <sub>(özel depo)</sub> | 21 |
 | [Air Canvas](https://github.com/GencayCeliker/air-canvas) | 13 |
 | [Üniversite Çalışmalarım](https://github.com/GencayCeliker/Universite-Calismalarim) | 13 |
@@ -157,7 +156,7 @@ Tüm projelerimde toplam **223 commit** attım. Günlük katkı takvimim bu sayf
 | [Telefon Rehberi](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi) | 6 |
 | [Java Algoritma Çözümleri](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri) | 5 |
 | Diğer 9 proje deposu <sub>(ilk yükleme + lisans)</sub> | 18 |
-| **Toplam** | **223** |
+| **Toplam** | **190** |
 
 <sub>Tüm dallardaki, yazarı olduğum commit'ler (birleştirmeler dahil) · 18 Kasım 2026 itibarıyla</sub>
 
