@@ -139,15 +139,10 @@ Yerel LLM (LM Studio) sohbet geçmişini SQL Server'da saklayan masaüstü uygul
 
 ## 📈 Katkılarım
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GencayCeliker&hide_border=true&locale=tr&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=GencayCeliker&hide_border=true&locale=tr&theme=default" alt="GitHub katkı serisi" />
-  </picture>
-</p>
+Tüm projelerimde toplam **223 commit** attım. Günlük katkı takvimim bu sayfanın hemen altında.
 
 <details open>
-<summary><b>Proje bazında commit sayılarım: toplam 223</b></summary>
+<summary><b>Proje bazında commit sayıları</b></summary>
 <br>
 
 | Proje | Commit |
