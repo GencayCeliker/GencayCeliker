@@ -45,42 +45,47 @@
 #### 1. [🖐️ Air Canvas – Webcam ile Havada Çizim](https://github.com/GencayCeliker/air-canvas)
 * **Teknolojiler:** Python | OpenCV | MediaPipe | Edge TTS | SpeechRecognition | manifold3d | pytest | GitHub Actions
 * **Açıklama:** Sıradan bir webcam ile işaret parmağınızı fırçaya çeviren çizim uygulaması. Kaba çizilen çizgi, daire, üçgen ve dikdörtgenleri düzgün şekle dönüştürür, Türkçe sesli komutları anlar ve sesli not alır. Yapay zekâ destekli 3D tasarım asistanı ile söylediğiniz parçayı (vida, dron, araba…) parçalara ayırıp adım adım sesli anlatımla çizdirir ve 3D yazıcıya hazır STL olarak dışa aktarır.
-* **Öne çıkanlar:** Özel donanım gerektirmez · geri al/yinele, silgi, tahta modu · yerel LLM (LM Studio / Ollama) ile not özetleme · pytest test paketi ve GitHub Actions CI.
+* **Öne çıkanlar:** Özel donanım gerektirmez · geri al/yinele, silgi, tahta modu · tasarımı fareyle veya parmakla döndürerek inceleme modu · ölçü notları, referans fotoğraf ve hazır STL parçalarla çalışan proje klasörü · internetsiz çalışan yerel LLM (LM Studio / Ollama) ve Whisper · pytest test paketi ve GitHub Actions CI.
 
-#### 2. [📚 Kütüphane Ödünç Verme Sistemi](https://github.com/GencayCeliker/Kutuphane-Otomasyonu)
+#### 2. [🧠 LLM Memory Manager – Yerel LLM Sohbeti ve Kalıcı Hafıza](https://github.com/GencayCeliker/LLM-Memory-Manager)
+* **Teknolojiler:** C# | WPF | .NET 10 | EF Core | SQL Server | LM Studio (OpenAI uyumlu API) | xUnit
+* **Açıklama:** LM Studio'daki yerel modellerle sohbet eden masaüstü uygulaması. Tüm konuşmalar SQL Server'da saklanır; geçmiş, modelin gerçekten yüklü olduğu bağlam uzunluğuna sığacak şekilde token bütçesiyle gönderilir. Yanıt yazıldıkça akar ve Markdown olarak biçimlenir; tanılama penceresi VRAM, GPU sıcaklığı ve bağlantı durumunu gösterir.
+* **Öne çıkanlar:** LM Studio'nun bağlam dolunca geçmişi sessizce kırpmasını önleyen token bütçesi · gerçek `prompt_tokens` ile kendini düzelten token tahmini · düşünen modellerde (Gemma 4) boş cevap koruması · arayüzden bağımsız çekirdek kütüphane ve 40 xUnit testi · WhatsApp webhook (deneysel).
+
+#### 3. [📚 Kütüphane Ödünç Verme Sistemi](https://github.com/GencayCeliker/Kutuphane-Otomasyonu)
 * **Teknolojiler:** T-SQL | C# | Windows Forms | Entity Framework (Database First) | SQL Server | .NET Framework 4.7.2
 * **Açıklama:** Üye, yazar ve kitap kaydı, ödünç verme ve iade işlemlerini yapan kütüphane otomasyonu. İş mantığının tamamı veritabanında; uygulama, Entity Framework üzerinden stored procedure'leri çağırır.
 * **Öne çıkanlar:** 22 stored procedure · kitap iade edilene kadar her gün artan gecikme cezası (15 günden sonra gün × 5 TL) · iadede cezayı kasaya yazan trigger (`trgCezaYaz`) · üyenin üzerindeki kitapları ceza durumuyla listeleyen `CASE WHEN` sorgusu · tek script ile kurulum.
 
-#### 3. [💧 Su Tahsilat Otomasyonu](https://github.com/GencayCeliker/Su-Tahsilat-Otomasyonu)
+#### 4. [💧 Su Tahsilat Otomasyonu](https://github.com/GencayCeliker/Su-Tahsilat-Otomasyonu)
 * **Teknolojiler:** C# | Windows Forms | T-SQL | SQL Server | Entity Framework (Database First) | .NET 10 | EF Core (Code First, Migrations) | Katmanlı Mimari
 * **Açıklama:** Su abonelerinin, sayaçlarının ve sayaç okumalarının takibi. Aynı uygulamayı iki farklı yaklaşımla yazdım: iş mantığı veritabanında olan stored procedure sürümü ve DAL / BLL / UI katmanlarına ayrılmış EF Core Code First sürümü.
 * **Öne çıkanlar:** 6 stored procedure · yeni okuma girilince aynı sayacın önceki okumasını bulup tüketimi ve vergiler dahil tutarı hesaplayan trigger (`trg_TuketimHesapla`) · Migration ile oluşturulan veritabanı · iki mimarinin yan yana karşılaştırılabildiği yapı.
 
-#### 4. [🍽️ Moly Restaurant – Web Sitesi ve Yönetim Paneli](https://github.com/GencayCeliker/Restoran-Sitesi)
+#### 5. [🍽️ Moly Restaurant – Web Sitesi ve Yönetim Paneli](https://github.com/GencayCeliker/Restoran-Sitesi)
 * **Teknolojiler:** C# | ASP.NET MVC 5 | Entity Framework 6 | SQL Server | Bootstrap 5 | jQuery/AJAX | .NET Framework 4.7.2
 * **Açıklama:** Müşteri sitesi ve yönetim paneli bir arada olan restoran web uygulaması. Menü ve kategori yönetimi, rezervasyon onay/iptal akışı ve müşteriye otomatik e-posta (SMTP), masa ve şef yönetimi, Summernote ile blog/duyuru ve içerik yönetimi, PDF yükleme, güvenlik kodlu ve yönetici onaylı yorumlar, Türkiye haritası üzerinden şube listeleme, rol tabanlı admin erişimi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 5. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
+#### 6. [🍽️ Restoran Otomasyon Sistemi (Takım Projesi)](https://github.com/foxseSReal/Restoran-Otomasyonu)
 * **Teknolojiler:** C# | WPF | Material Design in XAML | LiveCharts | SQL Server | Entity Framework 6 | .NET Framework 4.8
 * **Açıklama:** Masaüstü restoran yönetim sistemi: Masa Kontrolü, Gelir-Gider Takibi, Personel Yönetimi, Muhasebe, Satış Durumu Analizi, Ürün ve Stok Yönetimi, Rezervasyon ve Günlük Harcama Takibi.
 * **Rolüm:** Proje Yönetimi, Veritabanı Tasarımı, Hata Ayıklama (Debugging) ve C# Geliştirme.
 
-#### 6. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
+#### 7. [📞 Telefon Rehberi Uygulaması](https://github.com/GencayCeliker/Telefon-Rehberi-Uygulamasi)
 * **Teknolojiler:** C# | Windows Forms | Entity Framework 6 (Database First) | SQL Server | .NET Framework 4.7.2
 * **Açıklama:** Kişi ekleme, silme, güncelleme ve listeleme (CRUD) işlemleri yapan; ad/soyad ile canlı arama ve cinsiyete göre filtreleme sunan masaüstü rehber uygulaması.
 
-#### 7. 🤖 Moly / Jarvis – Sesli Yapay Zekâ Asistanı *(Geliştirme Aşamasında)*
+#### 8. 🤖 Moly / Jarvis – Sesli Yapay Zekâ Asistanı *(Geliştirme Aşamasında)*
 * **Teknolojiler:** Python | PySide6 | FastAPI | faster-whisper | Edge TTS | OpenCV / MediaPipe | ChromaDB | SQL Server / SQLite | LM Studio / Ollama | Gemini
 * **Açıklama:** Windows üzerinde yerel modellerle çalışan, Türkçe konuşan masaüstü asistanı: uyandırma kelimesi ve sesli komut, sesli yanıt, görüntü işleme, ChromaDB ile anlamsal hafıza, SQL Server'da sohbet geçmişi, 40+ eklenti (skill), arka planda çalışan ajanlar ve mobil uzaktan erişim.
 * **Not:** Depo şu an özel (private); hazır olduğunda paylaşılacaktır.
 
-#### 8. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri)
+#### 9. ☕ [Java ile Algoritma Geliştirme ve Problem Çözme](https://github.com/GencayCeliker/Java-Algoritma-Cozumleri)
 * **Teknolojiler:** Java | Algoritma | Swing | Dosya İşlemleri
 * **Açıklama:** Üniversite eğitimi kapsamında 7 seviyelik algoritma ödevinin 63 çözümü: döngüler, string işlemleri, matrisler, Swing ile klavye/ekran uygulamaları (labirent oyunu), dosya okuma-yazma ve mantık problemleri.
 
-#### 9. 🎓 [Üniversite Çalışmalarım](https://github.com/GencayCeliker/Universite-Calismalarim)
+#### 10. 🎓 [Üniversite Çalışmalarım](https://github.com/GencayCeliker/Universite-Calismalarim)
 * **Teknolojiler:** C# | Windows Forms | ASP.NET MVC 5 | Entity Framework | Java | Bootstrap 5
 * **Açıklama:** Bilgisayar Programcılığı derslerindeki 40'tan fazla alıştırma; her birinin README'sinde neler öğrendiğim yazar: Windows Forms (koşullar, döngüler, diziler, metotlar, Timer), LINQ, HTML/CSS/Bootstrap, Razor, konsol algoritmaları ve Java sıralama algoritmaları.
 
@@ -91,7 +96,6 @@
 | [🏢 İş Takip Otomasyonu](https://github.com/GencayCeliker/Is-Takip-Otomasyonu) | C# WinForms · EF6 · SMO | Personel, müşteri, stok, kasa, çek/senet, yetkilendirme, veritabanı yedekleme |
 | [🍽️ Restoran Otomasyonu (WinForms)](https://github.com/GencayCeliker/Restoran-Otomasyonu-WinForms) | C# WinForms · EF6 | Garson/kasiyer/admin panelleri, adisyon, grafikli satış raporları |
 | [✈️ Seyahat Blog Sitesi](https://github.com/GencayCeliker/Seyahat-Sitesi-MVC) | ASP.NET MVC 5 · EF6 | Yorumlar, güvenlik sorusu, sayfalama, rol tabanlı yönetim paneli |
-| [🧠 LLM Memory Manager](https://github.com/GencayCeliker/LLM-Memory-Manager) | WPF · .NET 10 · EF Core | Yerel LLM (LM Studio) sohbeti, SQL Server'da kalıcı hafıza |
 | [👥 Personel Takip (WPF)](https://github.com/GencayCeliker/Personel-Takip-WPF) | WPF · .NET 10 · EF Core | Stored procedure tabanlı CRUD |
 | [🚗 Araç Kiralama](https://github.com/GencayCeliker/Arac-Kiralama-Otomasyonu) | C# WinForms · T-SQL | Stored procedure ile kiralama ve teslim alma |
 | [🎓 MVC Öğrenci Takip](https://github.com/GencayCeliker/MVC-Ogrenci-Takip) | ASP.NET MVC 5 · LINQ | Öğrenci, ders, kulüp, not yönetimi |
